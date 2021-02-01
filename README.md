@@ -50,7 +50,7 @@ Below is the solution-
 ```
 
 
-# End of lab
+### End of lab
 
 
 # Create remote Git repository - Lab
@@ -97,7 +97,7 @@ $ git commit -m "second commit"
 $ git push 
 # Refresh the github.com/teacheramitk/git-demo and see second commit
 ```
-# End of lab
+### End of lab
 
 
 
@@ -131,7 +131,7 @@ $ cat .git/config
 $ git push
 # Refresh the github.com/teacheramitk/git-demo and see .gitignore commit
 ```
-# End of lab
+### End of lab
 
 
 # AWS CodeCommit : Create and set-up CodeCommit Repo- Lab
@@ -170,7 +170,7 @@ $ git clone https://git-codecommit.ap-south-1.amazonaws.com/v1/repos/Sample-Node
 $ git status
 ```
 
-# End of Lab
+### End of Lab
 
 
 
@@ -208,7 +208,7 @@ $ git push
 - Goto commits and see that second commit is present there
 
 
-# End of Lab
+### End of Lab
 
 
 
