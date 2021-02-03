@@ -70,7 +70,7 @@ Below is the solution-
 **Step 4. Click on "+" sign and click on New repository**
 
 **Step 5. Give name of repository and select Public**
-Click on Create repository
+- Click on Create repository
  
 **Step 6.Open Terminal in Visual Studio Code**
 ```sh
