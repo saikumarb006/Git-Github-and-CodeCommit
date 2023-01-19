@@ -1,4 +1,4 @@
-# Section-5-Git-Github-and-CodeCommit
+# Git-Github-and-CodeCommit
 
 # Create local git repository - Lab
 
